@@ -1,0 +1,93 @@
+    body {
+            font-family: "lato";
+        }
+
+        progress {
+            color: #4f929e;
+        }
+
+        img {
+            border: 1px solid #4f929e;
+            width: 20%;
+            height: 200px;
+            border-radius: 50%;
+            margin: 20px 20px;
+            float: left;
+            box-sizing: border-box;
+            
+        }
+
+        h4 {
+            border-left: 3px solid #3e95b0;
+            padding-left: 5px;
+        }
+
+        .info {
+            float: left;
+            width: 50%;
+            margin: 10px 10px;
+            box-sizing: border-box;
+            font-size: 1.1em;
+        };
+
+        .clear {
+            clear: both;
+        }
+
+        .kd {
+            clear: both;
+            
+        }
+        .contact {
+            background:#4f929e;
+            margin: auto;
+            padding: 20px 20px;
+         }
+    
+       
+        .banner {
+            width: 100%;
+            margin: 0px auto 0px auto;
+            text-align: center;
+        }
+        
+        .list {
+	        display: inline;
+	        margin: 0px 15px;
+            color: white;
+        }
+
+        em {
+            color: #3e95b0;
+        }
+
+        li {
+            display: block;
+            margin-bottom: 20px;
+            border-left: 3px solid #3e95b0;
+            padding-left: 5px;
+        }
+
+        content {
+            max-width: 1000px;
+            width: 90%;
+        }
+
+        .one {
+            float: left;
+        }
+
+        .two {
+            float: left;
+        }
+
+        .box {
+            box-sizing: border-box;
+            width: 50%;
+            padding: 50px 50px;
+        }
+
+        h3 {
+            color:#4f929e;
+            font-weight: 600;
+        }
